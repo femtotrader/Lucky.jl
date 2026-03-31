@@ -1,7 +1,7 @@
 name = "Lucky"
 uuid = "091b6c57-2055-4743-a613-81d9bc5174d5"
-authors = ["Olivier Milla <olivier.milla@hey.com>"]
 version = "0.7.1"
+authors = ["Olivier Milla <olivier.milla@hey.com>"]
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
@@ -30,7 +30,7 @@ InteractiveBrokers = "0.28, 0.30, 0.31"
 MarketData = "0.14, 0.15"
 Rocket = "1.7.2"
 Statistics = "1"
-TimeSeries = "0.24, 0.25"
+TimeSeries = "0.24, 0.25, 0.26"
 julia = "1.10"
 
 [extras]
